@@ -12,3 +12,6 @@ def mul(a,b):
 def mul(a,b):
 	c = a*b
 	return c	
+def exp(a,b):
+	c= a**b
+	return c
